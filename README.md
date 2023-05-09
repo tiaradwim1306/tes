@@ -1,5 +1,6 @@
 <p align="center">
   <img src="banner.png">
 </p>
-# tes
-repo ini saya guunakan untuk menyimpan resolusi saya kedepannya
+
+# test repository 
+repo ini saya gunakan untuk menyimpan resolusi saya kedepannya
